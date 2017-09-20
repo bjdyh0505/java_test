@@ -5,7 +5,7 @@ public class Develop {
 
     private String name;
     private String age;
-    private String job;
+    private String job;//工作职位
 
     public String getName() {
         return name;
