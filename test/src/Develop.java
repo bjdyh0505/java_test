@@ -22,4 +22,10 @@ public class Develop {
     public String getJob() { return job; }
 
     public void setJob(String job) { this.job = job; }
+
+    public void say() {
+        System.out.println("这是一个say方法");
+
+        System.out.println("在develop分支上提交 2017-09-20 15:00");
+    }
 }
