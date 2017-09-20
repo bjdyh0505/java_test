@@ -22,4 +22,8 @@ public class Develop {
     public String getJob() { return job; }
 
     public void setJob(String job) { this.job = job; }
+
+    public void say() {
+        System.out.println("这是一个say方法");
+    }
 }
